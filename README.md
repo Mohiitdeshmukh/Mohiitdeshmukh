@@ -5,7 +5,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohiitdeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="mohiitdeshmukh" /> </p>
 
-- 🔭 I’m currently working on [SnapShop App](https://github.com/Mohiitdeshmukh/BookIt_App.git)
+- 🔭 I’m currently working on [SnapShop App](https://github.com/Mohiitdeshmukh/SnapShop_EcommApp.git)
 
 - 🌱 I’m currently learning **Flutter, Java**
 
