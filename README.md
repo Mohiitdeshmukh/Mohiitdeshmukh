@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Deshmukh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Entrepreneur, Developer</h3>
 <img align="right" alt="Coding" width="400" 
 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohiitdeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="mohiitdeshmukh" /> </p>
 
-- 🔭 I’m currently working on [ApnaMart MarketplaceApp](https://github.com/Mohiitdeshmukh/ApnaMart_marketplaceApp)
-
-- 🌱 I’m currently learning **Flutter, Java**
-
-- 💬 Ask me about **Dart and java**
-
-- 📫 How to reach me **mohit17deshmukh@gmail.com**
+Learn • Adapt • Contribute • Evolve.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
